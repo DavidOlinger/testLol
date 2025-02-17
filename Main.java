@@ -7,10 +7,5 @@ public class Main {
 
         System.out.println("AFNKDFJN");
 
-        System.out.println("lol");
-
-        System.out.println("I am the ruler");
-
-        System.out.println("please reject");
     }
 }
